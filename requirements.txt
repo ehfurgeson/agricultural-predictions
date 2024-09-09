@@ -1,0 +1,31 @@
+# Basic Data Science Libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Machine Learning Libraries
+xgboost
+lightgbm
+
+# Jupyter Notebook
+jupyter
+
+# Geospatial and Remote Sensing
+rasterio
+geopandas
+
+# Weather and Climate Data
+meteostat
+ephem
+
+# Market Data
+yfinance
+
+# For Downloading and Processing Data
+requests
+
+# Visualization
+shap
+opencv-python-headless
